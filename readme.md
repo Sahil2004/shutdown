@@ -11,7 +11,7 @@ $ cargo build --release
 And it will compile it for you.
 
 ## Contribution
-If you want to contribute to it, just DM me on twitter: @real_SahilGarg and I will unarchive it. BTW I don't think there is any need of contriibution and hence I am archiving it.
+If you want to contribute to it, just do it man. Open the issue and put in the discription that you want to work on and I will assign it to you. 
 
 ## License
 Just read the LICENSE file. BTW it is under GPL-v3. Hence Enjoy!
